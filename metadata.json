@@ -1,0 +1,7 @@
+{
+  "name": "手势控制粒子变形",
+  "description": "一个沉浸式3D粒子系统，你可以通过网络摄像头实时手势控制星系和形状的形成与扩散。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
